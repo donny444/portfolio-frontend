@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "65d57ded8054100881308c17"
+  },
+  "firstname": "Tanadorn",
+  "lastname": "Rachatapeeti",
+  "nickname": "Donny",
+  "birthdate": {
+    "$date": "2004-04-04T00:00:00.000Z"
+  },
+  "nationality": "Thai",
+  "file_name": "biography.jpg"
+}]

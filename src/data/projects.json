@@ -1,0 +1,40 @@
+[{
+  "name": "CafeBucks",
+  "category": "college",
+  "description": "A website for cafe management I and my friends had done as a college project. It can be migrated into full POS system if I have available time to do it.",
+  "skills_used": ["Node.js", "Express", "Vite", "React", "MySQL"],
+  "url": "https://github.com/donny444/cafebucks",
+  "file_name": "cafebucks.jpg"
+},
+{
+  "name": "HardBank",
+  "category": "personal",
+  "description": "A financial website for transferring account balance to other users in the system. Using knowledge of authentication, relational database CRUD operations and transaction.",
+  "skills_used": ["React", "Node.js", "Docker", "Git"],
+  "url": "https://github.com/donny444/hard-bank",
+  "file_name": "hardbank.jpg"
+},
+{
+  "name": "SoftPower",
+  "category": "personal",
+  "description": "This is my fullstack website about soft power concept which has details on Thai soft power and its definition. Using knowledge of routing, authentication, API, ORM and NoSQL database.",
+  "skills_used": ["Sass", "MongoDB", "Node.js", "React", "Git"],
+  "url": "https://github.com/donny444/soft-power",
+  "file_name": "soft_power.jpg"
+},
+{
+  "name": "Portfolio",
+  "category": "personal",
+  "description": "My portfolio website for presenting my biography, education profiles, preferences, skills and projects I have done.",
+  "skills_used": [],
+  "url": "https://github.com/donny444/portfolio",
+  "file_name": "portfolio.jpg"
+},
+{
+  "name": "farm.exe",
+  "category": "college",
+  "description": "A college project of a MERN stack website for discovering tourist attractions in Thailand by random the data from 3rd party API by TAT. Additional features include reviews, authentication, and authorization.",
+  "skills_used": ["Node.js", "Express", "React", "Vite"],
+  "url": "https://github.com/donny444/farm.exe",
+  "file_name": "farm_exe.jpg"
+}]

@@ -1,0 +1,23 @@
+[{
+  "name": "Praphamontree 2 School",
+  "degree": "Primary School",
+  "file_name": "ppm2.jpg",
+  "graduation_year": 2016,
+  "admission_year": 2010
+},
+{
+  "name": "Streesmutprakan School",
+  "degree": "High School",
+  "file_name": "ssp.png",
+  "graduation_year": 2022,
+  "admission_year": 2019
+},
+{
+  "name": "King Mongkut's Institute of Technology Ladkrabang",
+  "faculty": "Prince of Chumphon Campus",
+  "degree": "Bachelor Degree",
+  "file_name": "kmitl_pcc.png",
+  "graduation_year": 2026,
+  "major": "Computer Engineering",
+  "admission_year": 2022
+}]

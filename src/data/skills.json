@@ -1,0 +1,90 @@
+[{
+  "name": "Node.js",
+  "file_name": "nodejs.webp",
+  "type": "framework"
+},
+{
+  "name": "Vite",
+  "file_name": "vite.svg",
+  "type": "framework"
+},
+{
+  "name": "Express",
+  "file_name": "express.png",
+  "type": "framework"
+},
+{
+  "name": "MySQL",
+  "file_name": "mysql.png",
+  "type": "database"
+},
+{
+  "name": "Figma",
+  "file_name": "figma.svg",
+  "type": "tool"
+},
+{
+  "name": "Docker",
+  "file_name": "docker.svg",
+  "type": "tool"
+},
+{
+  "name": "CSS",
+  "file_name": "css3.svg",
+  "type": "language"
+},
+{
+  "name": "C++",
+  "file_name": "cpp.svg",
+  "type": "language"
+},
+{
+  "name": "MongoDB",
+  "file_name": "mongodb.svg",
+  "type": "database"
+},
+{
+  "name": "Python",
+  "file_name": "python.svg",
+  "type": "language"
+},
+{
+  "name": "JavaScript",
+  "file_name": "javascript.png",
+  "type": "language"
+},
+{
+  "name": "Postman",
+  "file_name": "postman.svg",
+  "type": "tool"
+},
+{
+  "name": "VS Code",
+  "file_name": "vscode.svg",
+  "type": "tool"
+},
+{
+  "name": "React",
+  "file_name": "react.svg",
+  "type": "framework"
+},
+{
+  "name": "Sass",
+  "file_name": "sass.svg",
+  "type": "language"
+},
+{
+  "name": "PHP",
+  "file_name": "php.svg",
+  "type": "language"
+},
+{
+  "name": "HTML",
+  "file_name": "html5.svg",
+  "type": "language"
+},
+{
+  "name": "GitHub",
+  "file_name": "github.svg",
+  "type": "tool"
+}]

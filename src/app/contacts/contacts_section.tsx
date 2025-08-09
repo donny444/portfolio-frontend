@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { Col, Container, Row } from "react-bootstrap";
 
 import contactsData from "@/data/contacts.json";
 
@@ -11,21 +12,24 @@ interface PlatformsI {
 
 export default function ContactsSection(): React.ReactNode {
   return (
-    <div className="box">
-      <h3 className="box-header">Contact me</h3>
-      <PlatformsSection platforms={contactsData} />
-      <p className="box-text">
-        {/* <PhoneIcon /> */}
-        {process.env.NEXT_PUBLIC_PHONE}
-      </p>
-      <p className="box-text">
-        {/* <EmailIcon /> */}
-        {process.env.NEXT_PUBLIC_EMAIL}
-      </p>
-      <Link className="box-link" href="/contacts">
-        Click
-      </Link>
-    </div>
+    <Container>
+      <h3>Contact me</h3>
+      <Row>
+        <PlatformsSection platforms={contactsData} />
+      </Row>
+      <Row>
+        <Col>
+          <p className="box-text">
+            {process.env.NEXT_PUBLIC_PHONE}
+          </p>
+        </Col>
+        <Col>
+          <Link href={`mailto:${process.env.NEXT_PUBLIC_EMAIL}`}>
+            {process.env.NEXT_PUBLIC_EMAIL}
+          </Link>
+        </Col>
+      </Row>
+    </Container>
   );
 }
 
